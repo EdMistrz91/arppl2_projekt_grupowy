@@ -6,5 +6,8 @@ public class PracaWGrupie {
 
     // mentos fuu
 
+    // † ameno
+
+
     // Zobacz, rakieta! 3=======>    :D
 }
