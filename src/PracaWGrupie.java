@@ -10,4 +10,5 @@ public class PracaWGrupie {
 
 
     // Zobacz, rakieta! 3=======>    :D
+    // no to próbujemy przejść do codzienności
 }
