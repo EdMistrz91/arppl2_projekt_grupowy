@@ -7,4 +7,5 @@ public class PracaWGrupie {
     // mentos fuu
 
     // Zobacz, rakieta! 3=======>    :D
+    // no to próbujemy przejść do codzienności
 }
